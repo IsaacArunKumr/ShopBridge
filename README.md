@@ -1,2 +1,1 @@
-ShopBridge is a sample project developed by me for ThinkBridge to eanble them asses my technical and problem solving skills.
-This project is build on top of ASP.Net MVC Web API with Entity framework as datalayer. Purpoe of this API is to provide the service layer front end application to Query and modify the produc inventory data.
+Purpose of this document is to provide the information about the technical implementation of the “Shop Bridge Web API” application. This application is a Web API that acts as a backend service layer for “Shop Bridge” e-commerce app to providing the functional support to manage the product module.
